@@ -13,7 +13,7 @@ Este proyecto es un sistema diseñado para gestionar eficientemente el inventari
 - **Marketing y Ventas**: Creación de campañas, seguimiento de ventas y promociones.
 
 ## Diseño UX/UI
-(![Diagrama](recursos/Diseño Prototipo UXUI%-%Java/Proceso%de%Actualización%de%Stock.jpg))
+![Proceso de Actualización de Stock](recursos/Diseño%20Prototipo%20UXUI%20-%20Java/Proceso%20de%20Actualización%20de%20Stock.jpg)
 
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
