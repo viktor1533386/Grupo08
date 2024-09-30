@@ -15,7 +15,7 @@ Este proyecto es un sistema diseñado para gestionar eficientemente el inventari
 ## Diseño UX/UI
 ![Proceso de Actualización de Stock](recursos/Diseño%20Prototipo%20UXUI%20-%20Java/Proceso%20de%20Actualización%20de%20Stock.jpg)
 
-<img src="recursos/Diseño%20Prototipo%20UXUI%20-%20Java/Proceso%20de%20Actualización%20de%20Stock.jpg" alt="Proceso de Actualización de Stock" width="350" height="350" />
+<img src="recursos/Diseño%20Prototipo%20UXUI%20-%20Java/Proceso%20de%20Actualización%20de%20Stock.jpg" alt="Proceso de Actualización de Stock" width="350" height="250" />
 
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
