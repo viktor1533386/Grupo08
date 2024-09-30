@@ -12,6 +12,10 @@ Este proyecto es un sistema diseñado para gestionar eficientemente el inventari
 - **Gestión de Proveedores**: Registro y seguimiento de proveedores.
 - **Marketing y Ventas**: Creación de campañas, seguimiento de ventas y promociones.
 
+## Diseño UX/UI
+A sized image: ![Alt](recursos/Diseño Prototipo UXUI - Java.jpg =60x50)
+
+
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
 
