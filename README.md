@@ -13,7 +13,7 @@ Este proyecto es un sistema diseñado para gestionar eficientemente el inventari
 - **Marketing y Ventas**: Creación de campañas, seguimiento de ventas y promociones.
 
 ## Diseño UX/UI
-A sized image: ![Alt](recursos/Diseño Prototipo UXUI - Java.jpg =60x50)
+A sized image: ![Alt](https://github.com/viktor1533386/Grupo08recursos/Diseño Prototipo UXUI - Java.jpg =60x50)
 
 
 ## Estructura del Proyecto
